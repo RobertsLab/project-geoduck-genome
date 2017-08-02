@@ -4,4 +4,4 @@ Project Status - Active
 
 
 ### Research Objectives:   
-1) Produce a draft genome assembly for _Ostrea lurida_. 
+1) Produce a draft genome assembly for _Panopea generosa_. 
