@@ -1,0 +1,21 @@
+Trueseq stranded mRNA libraries,,,,,,,,
+Sample,Well,Index,Sequence,,,,,Sample Description
+GeoRNA1,A1,NR006,GCCAAT,,,,,Geoduck gonad RNA
+GeoRNA3,C1,NR012,CTTGTA,,,,,Geoduck ctenidia RNA
+GeoRNA5,E1,NR005,ACAGTG,,,,,Geoduck juvenile OA exposure RNA EPI 116
+GeoRNA7,G1,NR019,GTGAAA,,,,,Geoduck juvenile ambient exposure RNA EPI 124
+GeoRNA8,H1,NR021,GTTTCG,,,,,Geoduck larvae day 5 RNA EPI 99
+,,,,,,,,
+Nextera Mate Pair Library,,,,,,,,
+Sample,Well,Index,Sequence,,,,,Sample Description
+GeoNMP9,A2,AD002,CGATGT,,,,,Geoduck NMP gDNA
+GeoNMP10,B2,AD013,AGTCAA,,,,,Geoduck NMP gDNA 2-4kb
+GeoNMP11,C2,AD014,AGTTCC,,,,,Geoduck NMP gDNA 5-7kb
+GeoNMP12,D2,AD015,ATGTCA,,,,,Geoduck NMP gDNA 8-10kb
+,,,,,,,,
+10x Genomics Libraries,,Index,Sequence,,,,,Sample Description
+Geo10x5,A3,Multiple,TTCGCCCT,GGATGGGC,AATCAATG,CCGATTAA,,"10x Genomics library from Geoduck, prep1"
+Geo10x6,B3,Multiple,CATTAGCG,TTCGCTGA,ACAAGAAT,GGGCTCTC,,"10x Genomics library from Geoduck, prep2"
+,,,,,,,,
+HiC Libraries,,Index,Sequence,,,,,
+GeoHiC,C3,N701,TAAGGCGA,,,,,HiC library from Geoduck
