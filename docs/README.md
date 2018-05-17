@@ -1,4 +1,4 @@
-### Directory containg miscellaneous documents pertaining to this project.
+### Documents/metadata
 
 ---
 
